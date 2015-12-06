@@ -1,1 +1,3 @@
 # lottery
+
+Simple lottery app
